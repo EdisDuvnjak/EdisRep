@@ -14,8 +14,7 @@ namespace Hello_World_3
 
             Console.WriteLine("Marvin ist der beste Typ, den es gibt");
             Console.ReadKey();
-            Console.WriteLine("Hello Skrypni");
-
+            Console.WriteLine("Hello Skrypni, du Lachs");
             Console.ReadKey();
         }
     }
