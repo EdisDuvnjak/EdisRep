@@ -10,7 +10,12 @@ namespace Hello_World_3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Du");
+
+
+            Console.WriteLine("Marvin ist der beste Typ, den es gibt");
+            Console.ReadKey();
+            Console.WriteLine("Hello Skrypni");
+
             Console.ReadKey();
         }
     }
