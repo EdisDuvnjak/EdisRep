@@ -11,7 +11,7 @@ namespace Hello_World_3
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Marvin ist ein Spacken");
+            Console.WriteLine("Marvin ist der beste Typ, den es gibt");
             Console.ReadKey();
             Console.WriteLine("Hello Skrypni");
 
