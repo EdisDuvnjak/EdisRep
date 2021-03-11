@@ -10,7 +10,11 @@ namespace Hello_World_3
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Marvin ist ein Spacken");
+            Console.ReadKey();
+            Console.WriteLine("Hello Skrypni");
+
             Console.ReadKey();
         }
     }
